@@ -27,6 +27,7 @@ public class Dalek2 {
     }
     public String[] say = {};
     public void setSayings(String[] ak) {
+
         say = ak;
     }
 
