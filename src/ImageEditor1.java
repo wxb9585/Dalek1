@@ -1,5 +1,5 @@
 import java.awt.*;
-import
+import edu.princeton.cs.algs4.Picture;
 
 /**
  * Created by s1581377 on 07/02/17.
@@ -17,6 +17,7 @@ public class ImageEditor1 {
 
     }
     public static Picture makeGreyscale(Picture pic){
+
 
     }
 }
